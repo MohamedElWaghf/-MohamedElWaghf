@@ -1,4 +1,8 @@
-![cool image](https://www.google.com/imgres?imgurl=http%3A%2F%2Fphpography.com%2Fimages%2Fcool-wallpapers-hd-wallpaper-22.jpg&imgrefurl=http%3A%2F%2Fphpography.com%2F440724-cool-wallpapers-hd-2.html&tbnid=HGWlEoPh64XQEM&vet=12ahUKEwjN16P52OXwAhUD0oUKHSf9BPoQMyhEegUIARCDAQ..i&docid=w_eHgT01-C6AbM&w=2880&h=1800&q=cool%20images&client=ubuntu&ved=2ahUKEwjN16P52OXwAhUD0oUKHSf9BPoQMyhEegUIARCDAQ)
+<p align="center">
+  <img src="https://github.com/MohamedElWaghf/MohamedElWaghf/blob/main/cool.jpeg" width="350" title="hover text">
+  <img src="https://github.com/MohamedElWaghf/MohamedElWaghf/blob/main/cool.jpeg" width="350" alt="accessibility text">
+</p>
+<h1 align='center'><i>Stay awesome!</i></h1>
 
 <h1 align='center'> Hi! :wave: I'm Mohamed </h1>
 <p align='center'>
@@ -12,8 +16,8 @@
 [<img align="left" alt="codeSTACKr | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][Kaggle]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
-<h1 align='center'><i>Stay awesome!</i></h1>
+<br />
+<br />
 
 ### 🔧 Languages and Tools:
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
