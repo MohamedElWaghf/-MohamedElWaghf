@@ -1,4 +1,5 @@
-[![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev)
+![cool image](https://www.google.com/imgres?imgurl=http%3A%2F%2Fphpography.com%2Fimages%2Fcool-wallpapers-hd-wallpaper-22.jpg&imgrefurl=http%3A%2F%2Fphpography.com%2F440724-cool-wallpapers-hd-2.html&tbnid=HGWlEoPh64XQEM&vet=12ahUKEwjN16P52OXwAhUD0oUKHSf9BPoQMyhEegUIARCDAQ..i&docid=w_eHgT01-C6AbM&w=2880&h=1800&q=cool%20images&client=ubuntu&ved=2ahUKEwjN16P52OXwAhUD0oUKHSf9BPoQMyhEegUIARCDAQ)
+
 <h1 align='center'> Hi! :wave: I'm Mohamed </h1>
 <p align='center'>
 </p>
