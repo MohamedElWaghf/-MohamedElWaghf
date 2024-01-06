@@ -8,7 +8,7 @@
 <p align='center'>
 </p>
 
-
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 ![](https://komarev.com/ghpvc/?username=MohamedElWaghf)
 
 ### Find me on :
